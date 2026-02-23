@@ -1,1 +1,13 @@
-
+{
+  "addons": {
+    "eblotweak@eblo.id": {
+      "updates": [
+        {
+          "version": "2.1",
+          "update_link": "https://busjr.github.io/EbloTweak.github.io/EbloTweak-2.1.xpi",
+          "update_hash": "sha256:4D4B5D1AF4E76A5375C0D99290CA60655421054835E8CAF071966094D9EE87DA"
+        }
+      ]
+    }
+  }
+}
