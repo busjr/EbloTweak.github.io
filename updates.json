@@ -3,13 +3,18 @@
     "eblotweak@eblo.id": {
       "updates": [
         {
+          "version": "2.3",
+          "update_link": "https://busjr.github.io/EbloTweak.github.io/versions/Firefox/EbloTweak-2.3.xpi",
+          "update_hash": "sha256:F90F25805EBC506FEC067B9F6961186C1A634C6AE8BE84D8C09A5D45677C3A8F"
+        },
+        {
           "version": "2.2",
-          "update_link": "https://busjr.github.io/EbloTweak.github.io/versions/Chrome/EbloTweak-2.2.xpi",
+          "update_link": "https://busjr.github.io/EbloTweak.github.io/versions/Firefox/EbloTweak-2.2.xpi",
           "update_hash": "sha256:12DA23D0D577486057E42967DBB902ED076E415344FF676C7A2C7ABD93FCFEA3"
         },
         {
           "version": "2.1",
-          "update_link": "https://busjr.github.io/EbloTweak.github.io/versions/Chrome/EbloTweak-2.1.xpi",
+          "update_link": "https://busjr.github.io/EbloTweak.github.io/versions/Firefox/EbloTweak-2.1.xpi",
           "update_hash": "sha256:4D4B5D1AF4E76A5375C0D99290CA60655421054835E8CAF071966094D9EE87DA"
         }
       ]
