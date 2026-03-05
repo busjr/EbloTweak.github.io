@@ -3,6 +3,11 @@
     "eblotweak@eblo.id": {
       "updates": [
         {
+          "version": "2.3.1",
+          "update_link": "https://busjr.github.io/EbloTweak.github.io/versions/Firefox/EbloTweak-2.3.1.xpi",
+          "update_hash": "sha256:EDC90EAFA5C80D76B3BD861FAA1D5E9BDC7E7312344312E5FA81DCC67ECE6BC6"
+        },
+        {
           "version": "2.3",
           "update_link": "https://busjr.github.io/EbloTweak.github.io/versions/Firefox/EbloTweak-2.3.xpi",
           "update_hash": "sha256:F90F25805EBC506FEC067B9F6961186C1A634C6AE8BE84D8C09A5D45677C3A8F"
